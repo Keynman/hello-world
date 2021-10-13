@@ -1,3 +1,4 @@
 # hello-world
 My name is Keynman Jungle.
-just some idea
+This repo is just for practice.
+
